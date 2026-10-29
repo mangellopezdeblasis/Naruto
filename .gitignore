@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+media/
+output/
+node_modules/
+*.mp4
+*.mov
+*.mp3
+*.wav
