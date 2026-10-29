@@ -1,0 +1,130 @@
+{
+  "name": "Naruto",
+  "duration": 82.3,
+  "music_offset_db": -16,
+  "script": "script.md",
+  "storyboard": "storyboard.md",
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0,
+      "end": 4.115,
+      "text": "PENDIENTE"
+    },
+    {
+      "id": 2,
+      "start": 4.115,
+      "end": 8.23,
+      "text": "PENDIENTE"
+    },
+    {
+      "id": 3,
+      "start": 8.23,
+      "end": 12.345,
+      "text": "PENDIENTE"
+    },
+    {
+      "id": 4,
+      "start": 12.345,
+      "end": 16.46,
+      "text": "PENDIENTE"
+    },
+    {
+      "id": 5,
+      "start": 16.46,
+      "end": 20.575,
+      "text": "PENDIENTE"
+    },
+    {
+      "id": 6,
+      "start": 20.575,
+      "end": 24.69,
+      "text": "PENDIENTE"
+    },
+    {
+      "id": 7,
+      "start": 24.69,
+      "end": 28.805,
+      "text": "PENDIENTE"
+    },
+    {
+      "id": 8,
+      "start": 28.805,
+      "end": 32.92,
+      "text": "PENDIENTE"
+    },
+    {
+      "id": 9,
+      "start": 32.92,
+      "end": 37.035,
+      "text": "PENDIENTE"
+    },
+    {
+      "id": 10,
+      "start": 37.035,
+      "end": 41.15,
+      "text": "PENDIENTE"
+    },
+    {
+      "id": 11,
+      "start": 41.15,
+      "end": 45.265,
+      "text": "PENDIENTE"
+    },
+    {
+      "id": 12,
+      "start": 45.265,
+      "end": 49.38,
+      "text": "PENDIENTE"
+    },
+    {
+      "id": 13,
+      "start": 49.38,
+      "end": 53.495,
+      "text": "PENDIENTE"
+    },
+    {
+      "id": 14,
+      "start": 53.495,
+      "end": 57.61,
+      "text": "PENDIENTE"
+    },
+    {
+      "id": 15,
+      "start": 57.61,
+      "end": 61.725,
+      "text": "PENDIENTE"
+    },
+    {
+      "id": 16,
+      "start": 61.725,
+      "end": 65.84,
+      "text": "PENDIENTE"
+    },
+    {
+      "id": 17,
+      "start": 65.84,
+      "end": 69.955,
+      "text": "PENDIENTE"
+    },
+    {
+      "id": 18,
+      "start": 69.955,
+      "end": 74.07,
+      "text": "PENDIENTE"
+    },
+    {
+      "id": 19,
+      "start": 74.07,
+      "end": 78.185,
+      "text": "PENDIENTE"
+    },
+    {
+      "id": 20,
+      "start": 78.185,
+      "end": 82.3,
+      "text": "PENDIENTE"
+    }
+  ],
+  "approvals": {}
+}
