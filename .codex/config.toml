@@ -1,0 +1,9 @@
+[agents.guionista]
+description = "Guion"
+config_file = "agents/guionista.toml"
+[agents.director_creativo]
+description = "Storyboard"
+config_file = "agents/director-creativo.toml"
+[agents.auditor_calidad]
+description = "QA"
+config_file = "agents/auditor-calidad.toml"
